@@ -2,7 +2,7 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UlricRicher&label=Profile views&color=0e75b6&style=flat" alt="UlricRicher" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=UlricRicher&label=Profile%20views&color=0e75b6&style=flat" alt="UlricRicher" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UlricRicher" alt="UlricRicher" /></a> </p>
 
@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning **Rust and Minecraft Modding**
 
 <h3 align="left">Languages and Tools:</h3>
-<div width="100%" align="left" gap="10px">
+<div width="100%">
   <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> 
