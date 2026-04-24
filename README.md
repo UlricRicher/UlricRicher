@@ -51,12 +51,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue" alt="vuejs" /></a>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UlricRicher&show_icons=true&locale=en&layout=compact" alt="UlricRicher" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UlricRicher&show_icons=true&locale=en" alt="UlricRicher" /></p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UlricRicher&show_icons=true&locale=en&layout=compact" alt="UlricRicher" />
+<div align="left">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=UlricRicher&show_icons=true&locale=en&layout=compact" alt="UlricRicher" />
   <img src="https://github-readme-stats.vercel.app/api?username=UlricRicher&show_icons=true&locale=en" alt="UlricRicher" />
 </div>
 
